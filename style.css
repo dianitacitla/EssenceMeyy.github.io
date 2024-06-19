@@ -1,0 +1,33 @@
+.sidebar{
+    font-size: 1rem;
+    font-family: cursive;
+    text-align: left;
+    
+}
+.main{
+  font-size: 1px
+    font-family: century;
+    text-align: center;
+    
+}
+
+body {
+    
+}
+
+h2 {
+    color: palevioletred;
+}
+
+h3 {
+    color: pink;
+}
+
+p {
+    color:blueviolet;
+}
+
+h1 {
+    color:purple;
+    border-color:plum;
+}
